@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Samantha Fernandes 👋
 
-<!--
-**samfer2359-projects/samfer2359-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student focused on backend development and building real-world web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- BCA student focused on backend development and web applications
+- Enjoy building real-world systems using Python and web technologies
+- Interested in backend architecture, APIs, and scalable design
+
+---
+
+## Tech Stack
+- Backend: Python, Flask, PHP
+- Database: PostgreSQL
+- Frontend: HTML, CSS, JavaScript
+- Programming Languages: C, C++
+
+---
+
+##  Projects
+
+### CodeCryptix
+A secure code obfuscation and deobfuscation system with encryption and user authentication.
+
+###  NoteQuest
+An AI-powered gamified learning platform that converts study notes into concepts and generates adaptive MCQ-based quizzes using LLMs.
+
+## Other Projects
+- More projects available on my GitHub profile
+
+---
+
+## Currently Learning
+- React.js
+
+
+---
+
+## Connect With Me
+- Email: samantha.connect.tech@gmail.com
+
+---
+
+⭐ Always learning, building, and improving.
