@@ -1,4 +1,4 @@
-# Hi, I'm Samantha Fernandes 👋
+# Hi, I'm Samantha Fernandes 
 
 BCA student focused on backend development and building real-world web applications.
 
