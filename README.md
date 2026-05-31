@@ -48,4 +48,6 @@ Web application that converts study notes into MCQ-based quizzes using backend p
 ## Contact
 
 * Email: [samantha.connect.tech@gmail.com](mailto:samantha.connect.tech@gmail.com)
-* LinkedIn: linkedin.com/in/samantha-fernandes-00615b413
+* <a href="https://www.linkedin.com/in/samantha-fernandes-00615b413" target="_blank">
+LinkedIn Profile
+</a>
