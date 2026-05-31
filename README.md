@@ -40,6 +40,7 @@ An AI-powered gamified learning platform that converts study notes into concepts
 
 ## Connect With Me
 - Email: samantha.connect.tech@gmail.com
+- LinkedIn: linkedin.com/in/samantha-fernandes-00615b413
 
 ---
 
