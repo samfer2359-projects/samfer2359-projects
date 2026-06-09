@@ -1,6 +1,10 @@
 # Hi, I'm Samantha Fernandes
 
-BCA student focused on backend development and web application development.
+I am a BCA student interested in backend development and web applications.
+
+I like building projects using Python, Flask, PostgreSQL, PHP, JavaScript, HTML, and CSS. I’m currently learning React to improve my frontend skills.
+
+Through college and personal projects, I’ve built small web applications and experimented with different tools. I also practice coding problems on CodeChef and LeetCode and have explored basic cybersecurity through TryHackMe.
 
 ---
 
@@ -33,9 +37,15 @@ Web application that converts study notes into MCQ-based quizzes using backend p
 
 ---
 
-## Other Work
+## Other Projects
 
-* Additional projects available in repositories
+- Dinosaur Debate Museum – React-based educational project exploring scientific uncertainty and paleontology through interactive exhibits.
+- Debug Diary – Personal website documenting debugging experiences, programming mistakes, and lessons learned while learning software development.
+- Gap2Grow – Skill gap analysis platform that generates learning recommendations and personalized roadmaps.
+- Harvest-IQ – Web application for crop recommendation, fertilizer guidance, and plant disease detection.
+- C Console Games – Collection of console-based games built in C to strengthen programming fundamentals and problem-solving skills.
+
+More projects are available on my GitHub repositories.
 
 ---
 
