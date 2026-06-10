@@ -27,10 +27,6 @@ Through college and personal projects, I’ve built small web applications and e
 
 ## Projects
 
-### CodeCryptix
-
-Web-based system for code obfuscation and deobfuscation with authentication and secure transformation logic.
-
 ### NoteQuest
 
 Web application that converts study notes into MCQ-based quizzes using backend processing and AI-assisted question generation.
@@ -38,6 +34,10 @@ Web application that converts study notes into MCQ-based quizzes using backend p
 ### Gap2Grow  
 
 Skill gap analysis platform that generates learning recommendations and personalized roadmaps.
+
+### CodeCryptix
+
+Web-based system for code obfuscation and deobfuscation with authentication and secure transformation logic.
 
 ---
 
