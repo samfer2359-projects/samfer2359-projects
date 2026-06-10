@@ -35,6 +35,10 @@ Web-based system for code obfuscation and deobfuscation with authentication and 
 
 Web application that converts study notes into MCQ-based quizzes using backend processing and AI-assisted question generation.
 
+### Gap2Grow  
+
+Skill gap analysis platform that generates learning recommendations and personalized roadmaps.
+
 ---
 
 ## Other Projects
@@ -42,7 +46,6 @@ Web application that converts study notes into MCQ-based quizzes using backend p
 - Dinosaur Debate Museum – React-based educational project exploring scientific uncertainty and paleontology through interactive exhibits. Live Demo: https://dinosaur-debate.vercel.app/
 - Impossible Archive – A React-based interactive archive featuring fictional scientific anomalies, space phenomena, and mystery reports. Live Demo: https://impossible-archive.vercel.app
 - Debug Diary – Personal website documenting debugging experiences, programming mistakes, and lessons learned while learning software development. Live Demo: https://debug-diary-kappa.vercel.app
-- Gap2Grow – Skill gap analysis platform that generates learning recommendations and personalized roadmaps.
 - Harvest-IQ – Web application for crop recommendation, fertilizer guidance, and plant disease detection.
 - C Console Games – Collection of console-based games built in C to strengthen programming fundamentals and problem-solving skills.
 
