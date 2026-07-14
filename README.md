@@ -63,3 +63,4 @@ More projects are available on my GitHub repositories.
 
 * Email: [samantha.connect.tech@gmail.com](mailto:samantha.connect.tech@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/samantha-fernandes-00615b413
+* Portfolio: https://samanthafernandes.vercel.app/
